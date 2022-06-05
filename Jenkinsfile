@@ -25,7 +25,7 @@ pipeline {
 		}
 
 	}
-
+/*
 	post {
 		changed {
 			script {
@@ -41,4 +41,5 @@ pipeline {
 			}
 		}
 	}
+*/
 }
